@@ -1,7 +1,5 @@
 # LetsChat - Chat App
 
-**live demo: [https://react-chat-app-kohl.vercel.app/app](https://react-chat-app-kohl.vercel.app/app)**
-
 ---
 
 ## Project Description
